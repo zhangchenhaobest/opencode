@@ -1,3 +1,29 @@
+# opencode
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The open source coding agent.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源编码 Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://opencode.ai">
     <picture>
